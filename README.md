@@ -168,4 +168,4 @@ public class MainTest {
 
 Результат роботи програми:
 
-![Зобр4](img/4.png4.png)
+![Зобр4](img/4.png)
